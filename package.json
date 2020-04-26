@@ -1,13 +1,17 @@
 {
   "name": "Sasta Slack",
   "version": "1.0.0",
-  "description": "Realtime chat app with rooms",
+  "description": "Chat app with groups",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
+<<<<<<< HEAD
   "author": "Mrinal",
+=======
+  "author": "Mrinal Verma",
+>>>>>>> aaaf61251d735c406f333309e1ca6cd90d8c6983
   "license": " ",
   "dependencies": {
     "express": "^4.17.1",
