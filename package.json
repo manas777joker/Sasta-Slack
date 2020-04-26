@@ -1,14 +1,14 @@
 {
-  "name": "chatcord",
+  "name": "Sasta Slack",
   "version": "1.0.0",
-  "description": "Realtime chat app with rooms",
+  "description": "Chat app with groups",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Mrinal Verma",
+  "license": " ",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.24.0",
