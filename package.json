@@ -1,5 +1,5 @@
 {
-  "name": "Sasta Slack",
+  "name": "Sasta-Slack",
   "version": "1.0.0",
   "description": "Chat app with groups",
   "main": "server.js",
