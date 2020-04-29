@@ -7,11 +7,8 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-<<<<<<< HEAD
-  "author": "Mrinal",
-=======
   "author": "Mrinal Verma",
->>>>>>> aaaf61251d735c406f333309e1ca6cd90d8c6983
+
   "license": " ",
   "dependencies": {
     "express": "^4.17.1",
