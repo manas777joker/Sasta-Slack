@@ -27,7 +27,7 @@ io.on('connection', socket => {
     socket.join(user.room);
 
     // Welcome current user
-    socket.emit('message', formatMessage(botName, 'Welcome to Sasta Slack'));
+    socket.emit('message', formatMessage(botName,`Welcome to ${user.room}`));
 
     // Broadcast when a user connects
     socket.broadcast
